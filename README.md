@@ -10,7 +10,9 @@ npm install -g @angular/cli
 
 ### Install the app
 npm install
+```
 npm install @angular/common@next @angular/compiler@next @angular/compiler-cli@next @angular/core@next @angular/forms@next @angular/http@next @angular/platform-browser@next @angular/platform-browser-dynamic@next @angular/platform-server@next @angular/router@next @angular/animations@next --save
+```
 npm install typescript@2.2.1 --save
 
 ### Just in Time (JiT) Compilation
@@ -19,7 +21,7 @@ Runs the TypeScript compiler and launches the app
 
 ```
 npm start
-```a
+```
 
 ### Ahead of Time (AoT) Compilation
 
